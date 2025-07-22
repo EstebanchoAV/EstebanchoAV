@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hols 👋
 
 <!--
 -->
 
-- 🌱 I’m currently learning how 2 program 🌱
-- 🌩️ Tormenta de facha 🌩️
+- 🌱 Aprendiendo a programar🌱
+- 🌩️ Me trama un toque DevOps🌩️
